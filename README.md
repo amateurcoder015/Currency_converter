@@ -1,56 +1,16 @@
-# Currency_converter
-# 💱 Currency Converter App - Flutter
+# one
 
-Welcome to my first Flutter project! 🎉  
-This is a simple **Currency Converter** app that converts USD to INR using a basic multiplier.
+A new Flutter project.
 
----
+## Getting Started
 
-## 📱 App Preview
+This project is a starting point for a Flutter application.
 
-> Coming Soon — feel free to try the code and run it locally!
+A few resources to get you started if this is your first Flutter project:
 
----
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## 🛠️ Features
-
-- ✅ Simple and clean UI
-- ✅ Takes input in USD
-- ✅ Converts to INR using a static conversion rate
-- ✅ Responsive design using Material components
-
----
-
-## 🧑‍💻 About Me
-
-Hi! I'm **Bhavya Kothari** 👋  
-This is my **first time using Flutter**, and I built this app by following a code-along tutorial to understand the basics of:
-
-- Widget trees
-- Stateful widgets
-- TextEditingControllers
-- Theming and layout
-
----
-
-## 🚀 Getting Started
-
-### 🔧 Prerequisites
-
-- [Flutter SDK](https://flutter.dev/docs/get-started/install)
-- Android Studio / VS Code
-- An emulator or real device
-
-### 📥 Installation
-
-```bash
-git clone https://github.com/your-username/flutter-currency-converter.git
-cd flutter-currency-converter
-flutter pub get
-flutter run
-```
-
-##Project structure
-lib/
-├── main.dart                 # Entry point of the app
-└── one_material_page.dart    # UI & logic of the currency converter
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
