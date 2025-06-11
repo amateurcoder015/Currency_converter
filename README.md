@@ -50,6 +50,7 @@ flutter run
 ```
 
 #Project Structure
+
 lib/
 ├── main.dart                 # Entry point of the app
 └── one_material_page.dart    # UI & logic of the currency converter
